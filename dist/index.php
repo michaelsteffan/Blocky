@@ -19,7 +19,7 @@
                 <li><a href="/currently-ingame.php"><i class="fa fa-wifi"></i> Online Now</a></li>
                 <li><a href="/forum.php"><i class="fa fa-list-alt"></i> Forum</a></li>
                 <li><a href="/store.php"><i class="fa fa-credit-card"></i> Store</a></li>
-                <li><a href="/admin.php"><i class="fa fa-cogs"></i> Admin</a></li>
+                <li><a href="/admin.php"><i class="fa fa-cogs"></i> Admin Panel</a></li>
                 <li><a href="/logout.php"><i class="fa fa-sign-out"></i> Log Out</a></li>
                 <li>
                     <div class="chip">
